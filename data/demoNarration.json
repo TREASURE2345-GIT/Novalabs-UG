@@ -1,0 +1,71 @@
+{
+  "voice": "en-US-AriaNeural",
+  "rate": "-4%",
+  "pitch": "-2Hz",
+  "scenes": [
+    {
+      "id": "intro",
+      "start": 0,
+      "duration": 15,
+      "title": "Meet Nova",
+      "caption": "NovaLab: AI-guided virtual science labs for every school.",
+      "narration": "This is NovaLab, an AI-powered virtual science lab built for secondary schools. In this demo, our AI agent completes a real biology practical entirely on its own."
+    },
+    {
+      "id": "goal",
+      "start": 15,
+      "duration": 10,
+      "title": "The mission",
+      "caption": "Goal: complete DNA extraction, record evidence, and explain the result.",
+      "narration": "It has one goal: carry out the DNA extraction experiment, record the evidence, and explain what the result means."
+    },
+    {
+      "id": "apparatus",
+      "start": 25,
+      "duration": 15,
+      "title": "Selecting apparatus",
+      "caption": "Selecting apparatus: specimen tray, measuring cylinder, forceps and rod, microscope.",
+      "narration": "The agent scans the bench and selects the correct apparatus: a specimen tray, a measuring cylinder, forceps and a glass rod, and a microscope for close observation."
+    },
+    {
+      "id": "trial",
+      "start": 40,
+      "duration": 11,
+      "title": "Running the trial",
+      "caption": "Virtual trial: cells break open and DNA is released.",
+      "narration": "It runs a virtual trial. The mixture turns cloudy as the cells break open and DNA is released into the solution."
+    },
+    {
+      "id": "evidence",
+      "start": 51,
+      "duration": 13,
+      "title": "Recording evidence",
+      "caption": "Evidence: 62 millilitres measured. White strands form at the ethanol layer.",
+      "narration": "Next, it records the evidence like a real student, noting the volume measured and the white strands forming at the ethanol layer."
+    },
+    {
+      "id": "steps",
+      "start": 64,
+      "duration": 25,
+      "title": "Completing the practical",
+      "caption": "Guided steps: prepare, separate, precipitate, and collect the DNA.",
+      "narration": "The agent works through each guided step. It prepares the sample, separates the cell debris, adds ice-cold ethanol to precipitate the DNA, and finally spools the white strands onto a glass rod. Every action is checked and scored automatically."
+    },
+    {
+      "id": "complete",
+      "start": 89,
+      "duration": 15,
+      "title": "Practical complete",
+      "caption": "Practical complete: 100 percent score and a full evidence record.",
+      "narration": "The practical is complete. The agent has a full record of its measurements and observations, and a final score of one hundred percent. That same record is saved for the teacher."
+    },
+    {
+      "id": "outro",
+      "start": 104,
+      "duration": 12,
+      "title": "Real science, safely, anywhere",
+      "caption": "Real science, safely, anywhere.",
+      "narration": "NovaLab makes practical science safe, affordable, and available to every learner. Real science, safely, anywhere."
+    }
+  ]
+}
