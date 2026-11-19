@@ -1,0 +1,7 @@
+project_id = "novalab"
+
+[functions.flutterwave-initiate]
+verify_jwt = true
+
+[functions.flutterwave-webhook]
+verify_jwt = false

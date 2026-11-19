@@ -1,0 +1,11 @@
+-- NovaLab backend schema (deprecated single-file entry point)
+--
+-- The canonical schema now lives in:
+--   supabase/migrations/20261031000000_novalab_backend.sql
+--
+-- Apply it with either option:
+--   1. supabase db push
+--   2. Paste the migration file into the Supabase Dashboard SQL editor
+--
+-- The migration creates all tables, triggers, RPCs, reporting views, and
+-- row-level security policies. Do not run this file directly.
